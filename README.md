@@ -1,6 +1,6 @@
 # Hi there! 👋 
 
-## I'm a full-stack developer and AI Engineer
+## I'm a full-stack developer and AI engineer
 
 Please email me to look at my private repositories: tandon39@purdue.edu
 
