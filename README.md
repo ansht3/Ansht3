@@ -3,8 +3,11 @@
 <!--- <img src="https://github-readme-stats.vercel.app/api?username=Ansh2&show_icons=true&theme=radical" width="400"> -->
 
 
-# 💫 About Me:
-Hi there! 👋 <br>I'm a full-stack developer and AI engineer<br><br>Please email me to look at my private repositories: tandon39@purdue.edu
+# 💫 Hi there! 👋 :
+
+## I'm a full-stack developer and AI engineer
+
+Please email me to look at my private repositories: tandon39@purdue.edu
 
 ![](https://github-readme-stats.vercel.app/api?username=Ansh2&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ansh2&theme=dark&hide_border=false)<br/>
