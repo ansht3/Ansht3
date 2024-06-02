@@ -7,7 +7,7 @@
 
 Please email me to look at my private repositories: tandon39@purdue.edu
 
-The most up-to-date information about my current work experience can be found on my [site]([URL](https://anshtandon.netlify.com/)) or my [LinkedIn]([URL](https://linkedin.com/in/ansh-t)).
+The most up-to-date information about my current work experience can be found on my [site](https://anshtandon.netlify.com/) or my [LinkedIn](https://linkedin.com/in/ansh-t).
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
