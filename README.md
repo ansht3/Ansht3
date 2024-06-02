@@ -6,7 +6,7 @@
 ## I'm a software engineer, consultant, and researcher 💫 
 
 
-- 👀 I'm interested in machine learning, engineering, and finance
+- 👀 I'm interested in autonomus systems, application development, and finance
 
 
 - 🌱 I’m currently learning Algorithms and Deep Learning
