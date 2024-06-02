@@ -3,16 +3,20 @@
 
 # Hi there! 👋
 
-## I'm a full-stack engineer 💫 
+## I'm a software engineer, consultant, and researcher 💫 
 
-The most up-to-date information about my current work experience can be found on my [site](https://anshtandon.netlify.com/) or my [LinkedIn](https://linkedin.com/in/ansh-t).
 
-Please email me to look at my private repositories: tandon39@purdue.edu
+- 👀 I'm interested in machine learning, engineering, and finance
+
+
+- 🌱 I’m currently learning Algorithms and Deep Learning
+
+  
+- 👨‍💻 Feel free to reach out to me at my email: tandon39@purdue.edu
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ansh2&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
