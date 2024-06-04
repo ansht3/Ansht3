@@ -3,7 +3,7 @@
 
 # Hi there! 👋
 
-## I'm a software engineer, data analyst, and researcher 💫 
+## I'm a software engineer, analyst, and researcher 💫 
 
 
 - 👀 I'm interested in autonomus systems, application development, and business analytics
