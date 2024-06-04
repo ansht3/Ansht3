@@ -6,7 +6,7 @@
 ## I'm a software engineer, analyst, and researcher 💫 
 
 
-- 👀 I'm interested in autonomus systems, application development, and business analytics
+- 👀 I'm interested in autonomus systems, application development, and data science
 
 
 - 🌱 I’m currently learning Algorithms and Deep Learning
