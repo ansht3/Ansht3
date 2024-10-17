@@ -3,7 +3,7 @@
 
 # Hi there! 👋
 
-## I'm an undergrad at Purdue CS!
+## Undergrad at Purdue CS!
 
 - 👀 I'm interested in autonomus systems, web / mobile app development, and data analytics
 
