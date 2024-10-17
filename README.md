@@ -5,7 +5,7 @@
 
 ## Undergrad at Purdue CS
 
-- 👀 I'm interested in autonomus systems, web / mobile app development, and data analytics
+- 👀 I'm interested in autonomus systems, web / mobile app development, and quantitative analysis
 
 - 🌱 I’m currently learning Analysis of Algorithms, Deep Learning, and Mobile Development
   
