@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Analysis of Algorithms, Deep Learning, and Mobile Development
 
-- 🧑‍💻 Check out my [![Personal Website](https://anshtandon.netlify.app)](https://anshtandon.netlify.app)!
+- 🧑‍💻 Check out my [Personal Website](https://anshtandon.netlify.app)!
   
 - 📫 Feel free to reach out to me at my email: anshtandon193@gmail.com
 
