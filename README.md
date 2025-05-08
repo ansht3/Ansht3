@@ -1,22 +1,22 @@
-<!--- <img src="https://github-readme-stats.vercel.app/api?username=Ansh2&show_icons=true&theme=radical" width="400"> -->
+<!--- <img src="https://github-readme-stats.vercel.app/api?username=ansht3&show_icons=true&theme=radical" width="400"> -->
 
 
 # Hi there! 👋
 
 ## Undergrad at Purdue CS
 
-- 👀 I'm interested in autonomus systems, web / mobile app development, and quantitative analysis
+- 👀 I'm interested in autonomus systems, web / mobile app development, and systems.
 
 - 🌱 I’m currently learning Analysis of Algorithms, Deep Learning, and Mobile Development
 
-- 🧑‍💻 Check out my [Personal Website](https://anshtandon.netlify.app)!
+- 🧑‍💻 Check out my [Personal Website](https://anshtandon.com)!
   
-- 📫 Feel free to reach out to me at my email: anshtandon193@gmail.com
+- 📫 Feel free to reach out to me at my email: anshtandon21@gmail.com
 
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=AnshTandon2&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnshTandon2&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ansht3&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnshTandon2&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 -->
 
