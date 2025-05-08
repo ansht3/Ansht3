@@ -3,7 +3,7 @@
 
 I'm [**Ansh**](https://anshtandon.com), a CS undergrad at Purdue University.
 
-I currently work as a software engineer intern at [**Tesla**](https://tesla.com) on vehicle software automation, and previously worked at [**Accenture**](https://accenture.com) and [**Johns Hopkins APL**](https://jhuapl.edu).
+I currently work as a software engineer intern at [**Tesla**](https://tesla.com) on vehicle software automation. Previously, I was at [**Accenture AI**](https://accenture.com), [**NASA**](https://nasa.gov), and [**Johns Hopkins APL**](https://jhuapl.edu).
 
 I'm fascinated by large-scale, high-impact products and have worked on industry-leading services in AI/ML, full-stack development, and embedded systems.
 
