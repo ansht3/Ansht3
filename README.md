@@ -1,9 +1,9 @@
 <!--- <img src="https://github-readme-stats.vercel.app/api?username=ansht3&show_icons=true&theme=radical" width="400"> -->
 ### Hi there! 👋
 
-I'm [**Ansh**](https://anshtandon.com), a junior studying CS at Purdue University. I'm currently working as a Software Engineer Intern at [**Tesla**](https://tesla.com). <!-- Previously, I was at [**Accenture AI**](https://accenture.com), [**NASA**](https://nasa.gov), and [**Johns Hopkins APL**](https://jhuapl.edu). -->
+I'm currently working as a Software Engineer Intern at [**Tesla**](https://tesla.com). <!-- Previously, I was at [**Accenture AI**](https://accenture.com), [**NASA**](https://nasa.gov), and [**Johns Hopkins APL**](https://jhuapl.edu). -->
 
-I'm fascinated by large-scale, high-impact products and have worked on industry-leading services in AI/ML, full-stack development, infrastructure, and embedded systems.
+I am fascinated by large-scale, high-impact products and have worked on industry-leading services in AI/ML, full-stack development, infrastructure, and embedded systems.
 
 📫 How to reach me: anshtandon21@gmail.com
 
