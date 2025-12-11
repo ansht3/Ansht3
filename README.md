@@ -5,7 +5,7 @@ I'm previously worked as a Software Engineer Intern at [**Apple**](https://www.a
 
 I am fascinated by large-scale products and have previously worked in full-stack development, AI/ML, and infrastructure.
 
-How to reach me: anshtandon21@gmail.com
+How to reach me: ansh.nynj@gmail.com
 
 
 <!-- 📫 #### Let's connect!
