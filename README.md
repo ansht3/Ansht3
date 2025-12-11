@@ -5,11 +5,12 @@ I'm previously worked as a Software Engineer Intern at [**Apple**](https://www.a
 
 I am fascinated by large-scale, high-impact products and have worked on industry-leading services in machine learning, full-stack development, and embedded systems.
 
-📫 How to reach me: anshtandon21@gmail.com
+How to reach me: anshtandon21@gmail.com
 
-#### Let's connect!
+
+<!-- 📫 #### Let's connect!
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@atandon149)
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/ansh-t)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/ansh-t) --!>
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=AnshTandon2&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
