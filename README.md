@@ -3,7 +3,7 @@
 
 I'm previously worked as a Software Engineer Intern at [**Apple**](https://www.apple.com/) and [**Tesla**](https://www.tesla.com). <!-- Previously, I was at [**Accenture AI**](https://accenture.com), [**NASA**](https://nasa.gov), and [**Johns Hopkins APL**](https://jhuapl.edu). -->
 
-I am fascinated by large-scale products and have previously worked in full-stack development, applied AI, and infrastructure.
+I am fascinated by large-scale products and have previously worked in full-stack development, AI/ML, and infrastructure.
 
 How to reach me: anshtandon21@gmail.com
 
