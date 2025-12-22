@@ -1,11 +1,11 @@
 <!--- <img src="https://github-readme-stats.vercel.app/api?username=ansht3&show_icons=true&theme=radical" width="400"> -->
 ### Hi there! 👋
 
-I'm previously worked as a Software Engineer Intern at [**Apple**](https://www.apple.com/) and [**Tesla**](https://www.tesla.com). <!-- Previously, I was at [**Accenture AI**](https://accenture.com), [**NASA**](https://nasa.gov), and [**Johns Hopkins APL**](https://jhuapl.edu). -->
+<!--  I'm previously worked as a Software Engineer Intern at [**Apple**](https://www.apple.com/) and [**Tesla**](https://www.tesla.com). --> <!-- Previously, I was at [**Accenture AI**](https://accenture.com), [**NASA**] (https://nasa.gov), and [**Johns Hopkins APL**](https://jhuapl.edu). -->
 
-I am fascinated by large-scale products and have experience in full-stack development, applied AI, and infrastructure.
+<!-- I am fascinated by large-scale products and have experience in full-stack development, applied AI, and infrastructure. -->
 
-How to reach me: ansh.nynj@gmail.com
+<!-- How to reach me: ansh.nynj@gmail.com -->
 
 
 <!-- 📫 #### Let's connect!
